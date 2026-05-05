@@ -1,1 +1,1 @@
-price-trigger 1777897752
+price-trigger 1777940586
